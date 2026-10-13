@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Auréa Estética",
+  "description": "Site institucional e de alta conversão para clínica de estética local, focado em agendamento imediato via WhatsApp e conformidade regulatória de saúde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
